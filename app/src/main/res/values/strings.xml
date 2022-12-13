@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="start_music_service" />
+    <string name="stop_music_service" />
+    <string name="go_to_other_activity" />
+    <string name="prev">PREV</string>
+    <string name="next">NEXT</string>
+    <string name="songName">Blinding Lights</string>
+    <string name="songName2">Call Out My Name</string>
+    <string name="songName3">Save Your Tears</string>
+    <string name="start">START</string>
+    <string name="pause">PAUSE</string>
+
+
+</resources>
